@@ -1,0 +1,12 @@
+--- #YAML:1.0
+name:                Template-Declare-Anon
+version:             0.01
+abstract:            ~
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.32
+distribution_type:   module
+requires:     
+    Template::Declare:             0.26
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
